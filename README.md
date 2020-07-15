@@ -13,4 +13,7 @@ accept the notification displayed in the bottom right
 open the terminal again and you'll see the (venv) at the begining line
 run pip install pyautogui
 once that's install
-run pip install 
+run pip install selenium 
+close the terminal once it finishes installing
+
+run the script, and have fun :)
