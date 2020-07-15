@@ -4,6 +4,8 @@ First download all files and put them in a folder
 
 open the folder in VSCode
 
+change "chromedriver's path" to the folder in which chromedriver is located on your mac
+
 create a virtual environment
 open terminal and run pytho3 -m venv venv
 close terminal
